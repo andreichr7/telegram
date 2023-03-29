@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 # Load environment variables
 TELEGRAM_API_TOKEN = "6273769089:AAHh3JBVQIedVIoeE6pReoT4jOFj3QSaoNo"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 # Initialize bot and dispatcher
 bot = Bot(token=TELEGRAM_API_TOKEN)
